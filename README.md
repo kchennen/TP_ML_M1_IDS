@@ -18,7 +18,7 @@ Because it is provided by Google, you will need a Google Account for this to wor
 **Google Colab usage**
 
 1. Go to: https://colab.research.google.com/
-2. On the pop-up to select Notebook, select the Github Tab and enter this link: https://github.com/lambda-science/ML-TD-ESBS-2 and select the notebook showing (TD2_Machine_Learning.ipynb).
+2. On the pop-up to select Notebook, select the Github Tab and enter this link: [https://github.com/kchennen/TP_ML_M1_IDS](https://github.com/kchennen/TP_ML_M1_IDS) and select the notebook showing (TP_MachineLearning1_M1_IDS.ipynb).
 3. You should be able to run notebook and start writing code ! Create a cell and run `print("Hello World")` to check if everything is good !
 
 ### **Congratulations** you should now be ready to code for the TD ! You should read the second part at least for the informations that it contains ;)
@@ -53,7 +53,7 @@ It makes everything run on your computer instead of relying on Google's one. I w
 
 3. **Jupyter Notebooks**  
    Jupyter Notebook is the main tool of any data-scientist. It allows you to write and run python code dynamically without reloading all the code, data and variables everytime.  
-   It is structured as blocks of code that you can run and edit independantly. In this TD, our main worksheet will be the `TP_MachineLearning1_4_M1_IDS.ipynb` Jupyter Notebook.  
+   It is structured as blocks of code that you can run and edit independantly. In this TD, our main worksheet will be the `TP_MachineLearning1_M1_IDS.ipynb` Jupyter Notebook.  
    You have several option to open Jupyter Notebooks.
 
 ### Using the Tools
