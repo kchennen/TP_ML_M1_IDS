@@ -1,0 +1,16 @@
+name: TD_ML
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - optuna
+  - scikit-learn
+  - ipykernel
+  - matplotlib
+  - jupyter
+  - numpy
+  - pandas
+  - fastapi
+  - uvicorn
+  - requests
+prefix: /home/kchennen/mambaforge/envs/TD_ML
